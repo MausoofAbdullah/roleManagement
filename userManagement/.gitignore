@@ -1,0 +1,47 @@
+﻿# .NET Core
+project.lock.json
+project.fragment.lock.json
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.sql
+*.sqlite
+*.swp
+*.suo
+*.user
+*.userosscache
+*.suo
+*.log
+*.ide
+
+# ASP.NET Core
+wwwroot/
+appsettings*.json
+*.d.ts
+*.map
+*.ts
+*.js
+*.css
+*.scss
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.sqlite
+*.dbmdl
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
